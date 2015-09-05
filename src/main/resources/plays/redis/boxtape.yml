@@ -1,7 +1,0 @@
----
-name: Redis
-resolutions:
- - redis.clients:jedis:*
-requirements:
- - DavidWittman.redis
-
